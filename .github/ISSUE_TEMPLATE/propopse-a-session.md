@@ -9,9 +9,15 @@ assignees: ''
 
 **Title**: *My meetup talk title*
  
-**Date(s)**: 
+**Date(s)**: *Preferred dates*
 
-**Description**:  *You may wish to provide links to your website, slides, past events, social media, etc.*
+**Description**: 
+
+*You may wish to provide links to your website, slides, past events, social media, etc.*
+
+**Profile**: 
+
+*A short self-intro*
 
 **LinkedIn/Twitter/GitHub/Social media page**: *URL where people can find out more about you online.*
 
