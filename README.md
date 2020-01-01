@@ -30,7 +30,7 @@ Propose a topic for an upcoming meetup [here](https://github.com/JuniorDevSingap
 
 | Type | Date | Venue | Speakers | Sponsor(s) |
 | :--- |:---- | :---- | :------- | :--------- |
-| Code & Tell | Tue, Jan 14, 2020 | 90Seconds | [Yeo Kheng Meng](#1)<br>Ong Chin Hwee<br>Caleb Yang<br>Peh Yuhan | 90Seconds (Food & Venue) |
+| Code & Tell | Tue, Jan 14, 2020 | 90Seconds | [Yeo Kheng Meng](https://github.com/JuniorDevSingapore/meetups/issues/1)<br>[Ong Chin Hwee](https://github.com/JuniorDevSingapore/meetups/issues/2)<br>[Caleb Yang](https://github.com/JuniorDevSingapore/meetups/issues/3)<br>[Peh Yuhan](https://github.com/JuniorDevSingapore/meetups/issues/4) | 90Seconds (Food & Venue) |
 | Social | Thu, Feb 13, 2020 | Stripe Singapore |  | Stripe Singapore (Food & Venue) |
 | Code & Tell | Fri, Mar 13, 2020 | Microsoft Singapore | | Microsoft Singapore (Venue) |
 | Social | Tue, Apr 14, 2020 |
